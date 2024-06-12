@@ -1,0 +1,15 @@
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/bin/Debug/net7.0/ECommerceProj
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/bin/Debug/net7.0/ECommerceProj.deps.json
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/bin/Debug/net7.0/ECommerceProj.runtimeconfig.json
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/bin/Debug/net7.0/ECommerceProj.dll
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/bin/Debug/net7.0/ECommerceProj.pdb
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.csproj.AssemblyReference.cache
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.AssemblyInfoInputs.cache
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.AssemblyInfo.cs
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.csproj.CoreCompileInputs.cache
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.dll
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/refint/ECommerceProj.dll
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.pdb
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ECommerceProj.genruntimeconfig.cache
+/Users/shaowenhe/Desktop/Conestoga/Software Test/assignment 2/project/ECommerceProj/ECommerceProj/obj/Debug/net7.0/ref/ECommerceProj.dll
