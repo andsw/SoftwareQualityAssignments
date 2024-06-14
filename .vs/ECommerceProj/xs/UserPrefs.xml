@@ -1,5 +1,33 @@
 ﻿<Properties StartupConfiguration="{4A9CFE84-77F9-41E0-94ED-5B896799925E}|Default">
-  <MonoDevelop.Ide.ItemProperties.ECommerceProj PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ECommerceProj PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ECommerceProjTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerceProjTests/UnitTest1.cs">
+    <Files>
+      <File FileName="ECommerceProj/Program.cs" Line="4" Column="4" />
+      <File FileName="ECommerceProj/Product.cs" Line="5" Column="4" />
+      <File FileName="ECommerceProjTests/UnitTest1.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerceProj">
+            <Node name="ECommerceProj" expanded="True" />
+            <Node name="ECommerceProjTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ECommerceProj" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
