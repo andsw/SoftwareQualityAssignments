@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4A9CFE84-77F9-41E0-94ED-5B896799925E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerceProjTests/UnitTest1.cs">
+    <Files>
+      <File FileName="ECommerceProj/Program.cs" />
+      <File FileName="ECommerceProjTests/UnitTest1.cs" Line="19" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerceProj">
+            <Node name="ECommerceProj" expanded="True" />
+            <Node name="ECommerceProjTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ECommerceProj PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
